@@ -1,2 +1,2 @@
-# bash_profile
-general bash profile commands
+# Jason's `~/.bash_profile` aliases
+See `.bash_profile`
